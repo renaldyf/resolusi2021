@@ -1,5 +1,6 @@
 Reolusi 2021
 - Mendapatkan pekerjaan sesuai passion
 - Menguasai BackEnd Laravel dan CodeIgniter
-- Menguasai FrontEnd ReactJs dan VueJS
 - Menguasai JavaScript
+- Menguasai FrontEnd ReactJs dan VueJS
+- Belajar Mobile Programming React Native
