@@ -1,0 +1,5 @@
+Reolusi 2021
+- Mendapatkan pekerjaan sesuai passion
+- Menguasai BackEnd Laravel dan CodeIgniter
+- Menguasai FrontEnd ReactJs dan VueJS
+- Menguasai JavaScript
